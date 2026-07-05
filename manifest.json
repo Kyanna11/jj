@@ -1,0 +1,17 @@
+{
+  "name": "jujoo phone",
+  "short_name": "jujoo",
+  "description": "jujoo phone PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "jujoo.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
